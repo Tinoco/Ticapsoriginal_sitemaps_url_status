@@ -41,7 +41,7 @@ large xml sitemaps overview plotting result from http response codes
 </code></pre>
 
 ## Clone ticapsoriginaltweepy repository:
-<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_Sitemaps_Link_Status.git
+<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_sitemaps_link_status.git
 </code></pre>
 
 * Change the sitemapoverview.py file with your sitemap url 
