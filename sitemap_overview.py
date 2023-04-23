@@ -11,7 +11,7 @@ import advertools as adv
 import requests
 
 # INDEXING YOUR LARGE SITEMAPS
-sitemap = adv.sitemap_to_df("https://ticapsoriginal.com/static/sitemap1.xml")
+sitemap = adv.sitemap_to_df("https://ticapsoriginal.com/static/sitemaps1.xml")
 
 # TYPE CASTING URL TO LIST
 urls = sitemap["loc"].to_list()
