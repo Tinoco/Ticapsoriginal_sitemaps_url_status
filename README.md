@@ -1,4 +1,4 @@
-# Ticapsoriginal Sitemaps Link Status
+# Ticapsoriginal Sitemaps Url Status
 large xml sitemaps overview plotting result from http response codes
 
 * show status 200 Sucess requests
@@ -41,7 +41,7 @@ large xml sitemaps overview plotting result from http response codes
 </code></pre>
 
 ## Clone ticapsoriginaltweepy repository:
-<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_sitemaps_link_status.git
+<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status.git
 </code></pre>
 
 * Change the sitemapoverview.py file with your sitemap url 
