@@ -24,6 +24,10 @@ large xml sitemaps overview plotting result from http response codes
 <pre><code>cd venv
 </code></pre>
 
+## Install tkinter to build gui interface: 
+<pre><code>sudo apt-get install python3-tk
+</code></pre>
+
 ## Install tqdm to see progress bar: 
 <pre><code>pip install tqdm
 </code></pre>
